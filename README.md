@@ -1,2 +1,2 @@
 # connect-android-sdk
-SDK Code for Orufy Connect
+Orufy Connect Android SDK

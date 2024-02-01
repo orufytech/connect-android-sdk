@@ -5,11 +5,11 @@ Orufy Connect Android SDK
 Add it in your root **build.gradle** at the end of repositories:
 ```
 dependencyResolutionManagement {
-	repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-	repositories {
+     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+     repositories {
     	mavenCentral()
     	maven { url 'https://jitpack.io' }  // Add this if not present
-	}
+     }
 }
 ```
 App Module gradle file **(app/build.gradle)**
